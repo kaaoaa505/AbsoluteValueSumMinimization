@@ -25,23 +25,3 @@ solve(a) = 6.
 
 For a = [2, 4, 7, 6, 6, 8], the output should be
 solve(a) = 6.
-
-**Hints**
--   Math.floor()
-
-**Input/Output**
-
-- **[time limit] 4000ms (js)**
-- **[input] array.integer a**
-
-A non-empty array of integers,
-
-sorted in ascending order.
-
-*Guaranteed constraints:*
-
-1 ≤ a.length ≤ 200,
-
--106 ≤ a[i] ≤ 106.
-
-- **[output] integer**
